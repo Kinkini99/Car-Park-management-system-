@@ -1,2 +1,1 @@
-# Car-Park-management-system-
-SPM Mini Project
+# spm_mini_project
